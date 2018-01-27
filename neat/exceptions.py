@@ -1,0 +1,5 @@
+
+class NEATDQNException(Exception):
+    pass
+
+
